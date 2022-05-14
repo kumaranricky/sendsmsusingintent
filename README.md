@@ -17,7 +17,7 @@ Step 5: Design layout in activity_main.xml.<br><br>
 Step 6: Send SMS and Display details give in MainActivity file.<br><br>
 Step 7: Save and run the application.<br><br>
 
-## <br><br><br><br><br><br><br><br><br>PROGRAM:
+## PROGRAM:
 /*
 Developed by: Kumaran.B\
 Registeration Number : 212220230026
@@ -70,8 +70,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-![Screenshot (120)](https://user-images.githubusercontent.com/75243072/166181626-04e9cd61-369c-4d8b-9959-e22ddf8eda47.png)
+![Screenshot (120)](https://user-images.githubusercontent.com/75243072/166181626-04e9cd61-369c-4d8b-9959-e22ddf8eda47.png)<br><br><br><br>
 ![Screenshot (119)](https://user-images.githubusercontent.com/75243072/166181635-f1788a64-a0b5-450a-8940-1cd0362338f5.png)
 
-## RESULT
+## <br><br><br><br>RESULT
 Thus,an android application to Send SMS using Intent using Android Studio is developed and executed successfully.
