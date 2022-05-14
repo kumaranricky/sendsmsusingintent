@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-## <br>OUTPUT
+## <br><br><br><br>OUTPUT
 ![Screenshot (120)](https://user-images.githubusercontent.com/75243072/166181626-04e9cd61-369c-4d8b-9959-e22ddf8eda47.png)
 ![Screenshot (119)](https://user-images.githubusercontent.com/75243072/166181635-f1788a64-a0b5-450a-8940-1cd0362338f5.png)
 
