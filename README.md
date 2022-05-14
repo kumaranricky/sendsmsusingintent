@@ -9,13 +9,13 @@ To create and design an android application Send SMS using Intent using Android 
 Android Studio(Min. required Artic Fox)
 
 ## ALGORITHM:
-Step 1: Open Android Stdio and then click on File -> New -> New project.<br><br>
-Step 2: Then type the Application name as “ex.no.4″ and click Next.<br><br>
-Step 3: Then select the Minimum SDK as shown below and click Next.<br><br>
-Step 4: Then select the Empty Activity and click Next. Finally click Finish.<br><br>
-Step 5: Design layout in activity_main.xml.<br><br>
-Step 6: Send SMS and Display details give in MainActivity file.<br><br>
-Step 7: Save and run the application.<br><br>
+Step 1: Open Android Stdio and then click on File -> New -> New project.<br>
+Step 2: Then type the Application name as “ex.no.4″ and click Next.<br>
+Step 3: Then select the Minimum SDK as shown below and click Next.<br>
+Step 4: Then select the Empty Activity and click Next. Finally click Finish.<br>
+Step 5: Design layout in activity_main.xml.<br>
+Step 6: Send SMS and Display details give in MainActivity file.<br>
+Step 7: Save and run the application.<br>
 
 ## PROGRAM:
 /*
@@ -69,9 +69,9 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-## OUTPUT
-![Screenshot (120)](https://user-images.githubusercontent.com/75243072/166181626-04e9cd61-369c-4d8b-9959-e22ddf8eda47.png)<br><br><br><br>
+## <br><br><br><br><br><br><br><br><br><br><br><br>OUTPUT
+<br><br><br><br><br><br><br><br>![Screenshot (120)](https://user-images.githubusercontent.com/75243072/166181626-04e9cd61-369c-4d8b-9959-e22ddf8eda47.png)<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ![Screenshot (119)](https://user-images.githubusercontent.com/75243072/166181635-f1788a64-a0b5-450a-8940-1cd0362338f5.png)
 
-## <br><br><br><br>RESULT
+## <br><br><br><br><br><br><br><br><br><br><br><br>RESULT
 Thus,an android application to Send SMS using Intent using Android Studio is developed and executed successfully.
