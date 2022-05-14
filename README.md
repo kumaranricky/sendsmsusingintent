@@ -10,7 +10,7 @@ Android Studio(Min. required Artic Fox)
 
 ## ALGORITHM:
 Step 1: Open Android Stdio and then click on File -> New -> New project.\
-Step 2: Then type the Application name as “ex.no.4″ and click Next.\ 
+Step 2: Then type the Application name as “ex.no.4″ and click Next.<br> 
 Step 3: Then select the Minimum SDK as shown below and click Next.\
 Step 4: Then select the Empty Activity and click Next. Finally click Finish.\
 Step 5: Design layout in activity_main.xml.\
@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-## OUTPUT
+## <br><br><br><br><br><br><br><br>OUTPUT
 ![Screenshot (120)](https://user-images.githubusercontent.com/75243072/166181626-04e9cd61-369c-4d8b-9959-e22ddf8eda47.png)
 ![Screenshot (119)](https://user-images.githubusercontent.com/75243072/166181635-f1788a64-a0b5-450a-8940-1cd0362338f5.png)
 
