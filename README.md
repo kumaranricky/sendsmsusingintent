@@ -27,9 +27,7 @@ Step 6: Send SMS and Display details give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-
 /*
-Program to create and design an android application Send SMS using Intent.\
 Developed by: Kumaran.B\
 Registeration Number : 212220230026
 */
@@ -43,7 +41,6 @@ Registeration Number : 212220230026
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-
     <Button
         android:id="@+id/send_sms"
         android:layout_width="wrap_content"
@@ -57,24 +54,18 @@ Registeration Number : 212220230026
 ```
 ## MainActivity.java
 ```java
-
 package com.example.intent;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-
 public class MainActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
         Button mButton=(Button) findViewById(R.id.button);
         mButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -86,13 +77,11 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-
 ```
 
 ## OUTPUT
 ![Screenshot (120)](https://user-images.githubusercontent.com/75243072/166181626-04e9cd61-369c-4d8b-9959-e22ddf8eda47.png)
 ![Screenshot (119)](https://user-images.githubusercontent.com/75243072/166181635-f1788a64-a0b5-450a-8940-1cd0362338f5.png)
-
 
 ## RESULT
 Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
